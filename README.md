@@ -7,6 +7,16 @@ The project demonstrates how to structure a backend with routes, controllers, an
 
 ---
 
+## 🚀 Features
+- Create new products
+- Read (fetch) all products or a single product
+- Update product details
+- Delete products
+- MongoDB database integration
+- Postman tested endpoints
+
+---
+
 ## 👤 Author
 - **Shravya Pendota**
   
